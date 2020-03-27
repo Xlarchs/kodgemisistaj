@@ -13,7 +13,7 @@
 <html>
 <head>
  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
- <title>Job List</title>
+ <title>Job List Admin</title>
  <link href="${contextPath}/resource/bootstrap.min.css" rel="stylesheet">
  
  <link href="../../webjars/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" />
